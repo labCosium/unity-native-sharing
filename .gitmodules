@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/Mobile Native Sharing"]
+	path = Assets/Plugins/Mobile Native Sharing
+	url = http://scmlab.cosium.com:3000/CosiumLab/Mobile_Native_Sharing.git
